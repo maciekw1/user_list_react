@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/flexbox_layout/static/css/main.94eda9e1.css",
-    "main.js": "/flexbox_layout/static/js/main.f0c722ce.js",
-    "index.html": "/flexbox_layout/index.html",
-    "main.94eda9e1.css.map": "/flexbox_layout/static/css/main.94eda9e1.css.map",
-    "main.f0c722ce.js.map": "/flexbox_layout/static/js/main.f0c722ce.js.map"
+    "main.css": "/user_list_react/static/css/main.94eda9e1.css",
+    "main.js": "/user_list_react/static/js/main.f0c722ce.js",
+    "index.html": "/user_list_react/index.html",
+    "main.94eda9e1.css.map": "/user_list_react/static/css/main.94eda9e1.css.map",
+    "main.f0c722ce.js.map": "/user_list_react/static/js/main.f0c722ce.js.map"
   },
   "entrypoints": [
     "static/css/main.94eda9e1.css",
